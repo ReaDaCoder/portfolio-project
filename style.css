@@ -1,12 +1,22 @@
 .intro {
-  background-color: #8CCDE0;
+  background-color: #8ccde0;
   padding: 50px;
-}
-h1 {
-  color: #633194;
 }
 h1,
 h2,
 p {
   text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+h1 {
+  color: #633194;
+  font-weight: 800;
+}
+h2 {
+  font-weight: 400;
+}
+p {
+  font-weight: 600;
+  margin-top: 30px;
 }
