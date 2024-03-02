@@ -1,5 +1,5 @@
 .intro {
-  background-color: #8ccde0;
+  background: linear-gradient(#40e0d0 40%, #800080 70%, #ffa500 100%);
   padding: 50px;
 }
 h1,
