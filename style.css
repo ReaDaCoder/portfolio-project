@@ -48,3 +48,11 @@ p {
   cursor: pointer;
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
 }
+@media (max-width: 900px) {
+  h1 {
+    font-size: 47px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+}
