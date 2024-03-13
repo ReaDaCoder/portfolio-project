@@ -13,7 +13,7 @@ p {
   font-style: normal;
 }
 h1 {
-  color: black;
+  color: #f3f3f3;
   font-weight: 800;
   font-size: 60px;
   line-height: 72px;
@@ -45,6 +45,18 @@ p {
   padding: 50px;
   background-color: #c4c4c4;
 }
+ul {
+  list-style-type: none;
+  text-align: center;
+  color: #f3f3f3;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 300px;
+}
+li{
+  margin: 20px;
+}
+
 .btn {
   background: #f74464;
   color: white;
