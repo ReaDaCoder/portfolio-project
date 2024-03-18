@@ -38,7 +38,8 @@ p {
   padding-bottom: 90px;
 }
 .about,
-.skills {
+.skills,
+ .contact{
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
