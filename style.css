@@ -94,7 +94,7 @@ footer .email-link{
   color: #f74464;
   font-size: 24px;
 }
-footer .email-link :hover{
+footer .email-link:hover {
   color: #f3f3f3;
 }
 footer .social-links a{
@@ -106,6 +106,15 @@ footer .social-links a{
   font-size: 18px;
   transition: all 100ms ease-in-out;
 }
+footer .social-links a:hover {
+  color: white;
+  background: var(--branding-color);
+}
+footer .social-links a:hover {
+  color: #f3f3f3;
+  background:#f74464;
+}
+
 
 @media (max-width: 900px) {
   h1 {
