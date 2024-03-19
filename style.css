@@ -93,6 +93,12 @@ footer .email-link :hover{
 }
 footer .social-links a{
   margin:0 20px;
+  color: #f74464;
+  background-color: hsl(0, 0%, 85%);
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 18px;
+  transition: all 100ms ease-in-out;
 }
 
 @media (max-width: 900px) {
