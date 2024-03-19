@@ -68,6 +68,19 @@ li{
   cursor: pointer;
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
 }
+h4{
+  font-size: 48px;
+}
+
+footer .contact-box{
+  background: #c4c4c4;
+  padding: 30px 120px;
+  border-radius: 10px;
+}
+footer .contact-box p{
+  margin: 0;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 47px;
