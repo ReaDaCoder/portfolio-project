@@ -69,6 +69,7 @@ li{
   margin-left: auto;
   margin-right: auto;
   width: 45%;
+  border-radius: 20px;
 }
 
 .btn {
